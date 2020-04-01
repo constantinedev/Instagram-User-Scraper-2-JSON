@@ -25,5 +25,5 @@ exit 0<br>
 	指定星期+指定時間<br>
 	schedule.every().tuesday.at("18:00").do(IG_SCRAP)<br>
 <br>
-本爬蟲用於在收集IG公開用戶之帳戶,以JSON格式輸出.<br>
+本爬蟲用於再收集IG公開用戶之帳戶,以JSON格式輸出.<br>
 為網頁資源在用而設,如下載JSON檔案後閣下可自行對JSON再進行從整網頁排版用途.
