@@ -2,6 +2,7 @@
 安裝方法:<br>
 cd /[PROJECT]<br>
 python3.8 -m pip install -r request.txt --user<br>
+chmod +x run.py<br>
 <br>
 執行:<br>
 python3.8 run.py<br>
